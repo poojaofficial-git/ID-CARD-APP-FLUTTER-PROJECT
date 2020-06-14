@@ -1,6 +1,6 @@
-# stateful_widget
+# ID CARD android app using Flutter.
 
-A new Flutter project.
+Dart language is used in this project.
 
 ## Getting Started
 
